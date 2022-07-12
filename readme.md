@@ -1,0 +1,1 @@
+Problems written in Javascript that encompass front-end development, to include traversing and manipulating the DOM with Javascript and DOM APIs, making HTTP requests with XMLHttpRequest, Async/Await and Fetch, and Asynchronous programming with event listeners.
